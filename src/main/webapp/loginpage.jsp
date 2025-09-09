@@ -4,7 +4,7 @@
     <title>Flight details</title>
 </head>
 <body>
-    <h2> You have logged to Flight details </h2>
+    <h2> You have loggeddddd to Flight details </h2>
     <form action="loginpage.jsp" method="post">
     <%
         {
